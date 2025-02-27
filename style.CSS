@@ -1,0 +1,11 @@
+h1 {color: brown;
+text-align: center;}
+body {background-color: #9c9cff;
+font-family: 'Times New Roman', Times, serif;}
+p {color: #15223a;}
+img {
+    width: 300px; /* Cambia el ancho de la imagen */
+    height: auto; /* Mantiene la proporción de la imagen */
+    display: block; /* Hace que la imagen sea un elemento de bloque */
+    margin: 0 ; /* Centra la imagen horizontalmente */
+}
