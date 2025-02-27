@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>FISION NUCLEAR</h1> 
+<p>En física nuclear, la fisión (no confundir con la fusión nuclear) es la división de un núcleo en núcleos más livianos,1​2​ además de algunos subproductos como neutrones libres, fotones (generalmente rayos gamma) y otros fragmentos del núcleo como partículas alfa (núcleos de helio) y beta (electrones y positrones de alta energía) además de gran cantidad de energía.3​ Su descubrimiento se debe a Otto Hahn y Lise Meitner, aunque fue el primero el único en recibir el premio Nobel por el mismo.4​ </p>
+
+        La fisión nuclear de los elementos pesados fue descubierta el 17 de diciembre de 1938 por el alemán Otto Hahn y su ayudante Fritz Strassmann a propuesta de la física austro-sueca Lise Meitner que la explicó teóricamente en enero de 1939 junto con su sobrino Otto Robert Frisch. Frisch dio nombre al proceso por analogía con la fisión binaria de las células vivas. En el caso de los nucleidos pesados, se trata de una reacción exotérmica que puede liberar grandes cantidades de energía, tanto en forma de radiación electromagnética como de energía cinética de los fragmentos. Al igual que la fusión nuclear, para que la fisión produzca energía, la energía de enlace total de los elementos resultantes debe ser mayor que la del elemento inicial. </p>
+        
+        La fisión es una forma de transmutación nuclear porque los fragmentos resultantes (o átomos hijos) no son el mismo elemento que el átomo padre original. Los dos (o más) núcleos producidos suelen ser de tamaños comparables pero ligeramente diferentes, normalmente con una relación de masas de los productos de aproximadamente 3 a 2, para fisibles comunes, isótopo común.5​6​ La mayoría de las fisiones son binarias (producen dos fragmentos cargados), pero ocasionalmente (de 2 a 4 veces por cada 1000 eventos), se producen tres fragmentos cargados positivamente, en una fisión ternaria. El más pequeño de estos fragmentos en los procesos ternarios varía en tamaño desde un protón hasta un núcleo de argón. </p>
+        
+        Aparte de la fisión inducida por un neutrón, aprovechada y explotada por el ser humano, una forma natural de desintegración radiactiva espontánea (que no requiere un neutrón) también se denomina fisión, y se produce especialmente en isótopos de muy alto número de masa. La fisión espontánea fue descubierta en 1940 por Fliórov, Pétrzhak, y Kurchátov7​ en Moscú, en un experimento que pretendía confirmar que, sin bombardeo de neutrones, la tasa de fisión del uranio era despreciable, tal y como había predicho Niels Bohr; no era despreciable.7​ </p>
+        
+        La composición impredecible de los productos (que varían de forma ampliamente probabilística y algo caótica) distingue la fisión de los procesos puramente de efecto túnel como la emisión de protones, la desintegración alfa y la desintegración en racimo, que dan los mismos productos cada vez. La fisión nuclear produce energía para la energía nuclear e impulsa la explosión de armas nucleares. Ambos usos son posibles porque ciertas sustancias llamadas combustibles nucleares sufren la fisión cuando son golpeadas por los neutrones de fisión, y a su vez emiten neutrones cuando se rompen. Esto hace posible una reacción nuclear en cadena autosostenida, que libera energía a un ritmo controlado en un reactor nuclear o a un ritmo muy rápido e incontrolado en un arma nuclear. </p>
+        
+        La cantidad de energía libre contenida en el combustible nuclear es millones de veces superior a la cantidad de energía libre contenida en una masa similar de combustible químico como la gasolina, lo que hace de la fisión nuclear una fuente de energía muy densa. Sin embargo, los productos de la fisión nuclear son, por término medio, mucho más radiactivos que los elementos pesados que normalmente se fisionan como combustible, y permanecen así durante mucho tiempo, dando lugar a un problema de residuos nucleares. La preocupación por la acumulación de residuos nucleares y el potencial destructivo de las armas nucleares se contrapone al deseo pacífico de utilizar la fisión como fuente de energía.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Nuclear_fission.svg/250px-Nuclear_fission.svg.png" alt="uranio">
+        <figcaption>Fisión nuclear de un átomo de uranio-235.</figcaption>
+        <!--<ul>
+        <li>seguramente ya habras notado q no me importa</li>
+    </ul>
+    <ol>
+        <li>no me importa</li>
+        <li>lacagada va en la taza</li>
+    </ol>
+    
+</body>
+</html>
+ 
