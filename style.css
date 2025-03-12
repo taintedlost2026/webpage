@@ -1,4 +1,4 @@
-h1 {color: brown;
+h1 {color: #a52a2a;
 text-align: center;}
 body {background-color: #9c9cff;
 font-family: 'Times New Roman', Times, serif;}
@@ -8,4 +8,42 @@ img {
     height: auto; /* Mantiene la proporción de la imagen */
     display: block; /* Hace que la imagen sea un elemento de bloque */
     margin: 0 ; /* Centra la imagen horizontalmente */
+}
+
+.button-container {
+
+    margin-top: auto;
+
+    text-align: left;
+
+    padding: 10px;
+
+}
+
+.btn {
+
+    background-color: #9c9bff;
+
+    color: #a52a2a;
+
+    padding: 10px 10px;
+
+    border: none;
+
+    border-radius: 25px;
+
+    cursor: pointer;
+
+    font-size: 16px;
+
+    text-decoration: none;
+
+    display: inline-block;
+
+}
+
+.btn:hover {
+
+    background-color: #9cbcff;
+
 }
